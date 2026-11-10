@@ -636,6 +636,14 @@ Do not use these techniques to intercept, access, or disclose private communicat
 
 ---
 
+# Author
+Nicholas Gyemfi 
+
+Cybersecurity Entusiast
+
+LinkedIn: [https://www.linkedin.com/in/nic-gyim/](https://www.linkedin.com/in/nic-gyim/)
+
+
 <p align="center">
   <b>Learn. Practise. Analyse. Secure.</b>
   <br>
