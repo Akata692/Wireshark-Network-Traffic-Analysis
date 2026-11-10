@@ -39,7 +39,7 @@
 
 Network traffic analysis is an essential component of cybersecurity, digital forensics, and incident response. Understanding how devices communicate across a network makes it possible to investigate suspicious activities, identify potential security threats, and detect information that may be exposed during transmission.
 
-As part of my continuous journey into Cybersecurity with, I undertook a practical network traffic analysis exercise using **Wireshark**, an open-source network protocol analyser.
+As part of my continuous journey into Cybersecurity with NETWORKWALKS, I undertook a practical network traffic analysis exercise using **Wireshark**, an open-source network protocol analyser.
 
 The exercise focused on capturing, filtering, inspecting, and analysing network packets to understand how different network activities can reveal valuable information during a security investigation.
 
